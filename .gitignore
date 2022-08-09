@@ -1,0 +1,7 @@
+node_modules
+static/qr/*
+.env
+package-lock.json
+temp.txt
+test.js
+temp.js
